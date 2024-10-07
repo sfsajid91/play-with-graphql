@@ -116,3 +116,4 @@ pnpm start
 -   [SWC](https://swc.rs/)
 -   [TypeScript](https://www.typescriptlang.org/)
 -   [JWT](https://jwt.io/)
+-   [Zod](https://zod.dev/)
